@@ -24,6 +24,15 @@ Imagine we have a dataset with input features (X) and target values (y). SVR aim
 - Polynomial Kernel: Captures non-linear relationships by raising the data points to a certain power.
 - Radial Basis Function (RBF Kernel): A popular choice for non-linear data, known for its flexibility.
 
+### Other Kernel Functions:
+- Gaussian Kernel
+- Hyperbolic Tangent Kernel
+- Sigmoid Kernel
+- Bessel Function of First Kind Kernel
+- Anova Radial Basis Kernel
+
+Kernels available with skearn: [sklearn.svm.SVC](https://scikit-learn.org/stable/modules/generated/sklearn.svm.SVC.html)
+
 ## Using SVR for AMD Stock Price Prediction:
 In our case, we use SVR with an RBF kernel to predict the closing price (Close) of the AMD stock based on the manually added variable (Day). By selecting an appropriate kernel and tuning the hyperparameter `C`, we can create a model that captures the non-linear trends in the stock price data.
 To understand the flow of the data in our code, take a look at this flowchart:
