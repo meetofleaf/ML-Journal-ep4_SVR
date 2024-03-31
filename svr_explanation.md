@@ -1,6 +1,6 @@
 ![Banner](.media/banner.png)
 # What is Support Vector Regression?
-Today we're venturing into the realm of Support Vector Regression (SVR), a technique closely related to Support Vector Machines (SVMs) used for classification tasks. SVR tackles the challenge of regression – predicting continuous outputs – while incorporating the strengths of SVMs. Here's a breakdown of the key concepts:
+A technique closely related to Support Vector Machines (SVMs). SVR tackles the challenge of regression – predicting continuous outputs – while incorporating the strengths of SVMs. Here's a breakdown of the key concepts:
 
 ## The Core Idea
 Unlike linear regression, which minimizes the overall error, SVR focuses on finding a hyperplane that minimizes the prediction error for a specific set of points while maximizing the margin around the hyperplane.
