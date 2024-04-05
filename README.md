@@ -9,7 +9,7 @@ In this series of repositories, we'll explore various models, documenting the co
 
 
 # Ep 04 - Support Vector Regression (SVR)
-This repository is the fourth addition in the 'ML Journal' series aimed at revisiting fundamental machine learning models. This specific repository focuses on Support Vector Regression with RBF (Radial Basis Function) Kernel. SVR tackles the challenge of regression – predicting continuous outputs – while incorporating the strengths of SVMs (Support Vector Machines).
+This is the fourth addition in the 'ML Journal' series aimed at revisiting fundamental machine learning models. This specific repository focuses on Support Vector Regression with RBF (Radial Basis Function) Kernel. SVR tackles the challenge of regression – predicting continuous outputs – while incorporating the strengths of SVMs (Support Vector Machines).
 
 Don't worry, the concept is explained here:
 #### [Concept explanation](https://github.com/meetofleaf/ML-Journal-ep4_SVR/blob/main/svr_explanation.md)
@@ -48,7 +48,7 @@ Following is a list of the programs and libraries, with the versions, used in th
 
 ## Getting Started
 - Clone this repository.
-- Ensure you have all the required programs and libraries installed or install using the requirements file.
+- Make sure you have the required programs and libraries installed. You can install them using the requirements file with:
   - `pip install -r requirements.txt`
 - Simply run the Python script either from your OS' command prompt or from your choice of IDE.
 - Follow the comments and code execution to understand the process.
