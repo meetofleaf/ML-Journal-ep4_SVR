@@ -34,7 +34,7 @@ Dataset link: https://finance.yahoo.com/quote/AMD/history
 
 
 ## Code
-The Python code file (svr.py) demonstrates how to implement support vector regression using a popular machine learning library scikit-learn. You will find guiding comments in the code specifying purpose of each block of code in 1-2 lines.
+The Python code file (`svr.py` / `svr.ipynb`) demonstrates how to implement support vector regression using a popular machine learning library scikit-learn. You will find guiding comments in the code specifying purpose of each block of code in 1-2 lines.
 
 
 ## Requirements
@@ -62,6 +62,7 @@ This is just the first step in our machine learning journey. Stay tuned for futu
 
 ## References & Guidance Links:
 - Python: https://www.python.org/
+  - Jupyter Notebook: https://jupyter.org/install
   - Scikit-learn: https://scikit-learn.org/stable/install.html
   - Pandas: https://pandas.pydata.org/pandas-docs/stable/getting_started/install.html
   - NumPy: https://numpy.org/install/
